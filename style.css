@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: blue;
+    background-image: url("assets/Screenshot_20260209_165055_WhatsApp.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color:crimson;
+    font-size: 100px;
+    margin: 20px;
+
+
+}
+
+p{
+    text-align: justify;
+    color:aliceblue;
+    font-family: sans-serif;
+    margin: 100px;
+}
